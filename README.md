@@ -1,10 +1,12 @@
-#Data Analysis Project Repository
+# Data Analysis Project Repository
+
 Welcome to my Data Analysis Project Repository! This repository contains multiple projects where I have applied data cleaning, exploratory data analysis (EDA), and data modeling techniques using SQL and Python.
 
-Introduction
+# Introduction
+
 This repository showcases my skills in data analysis, covering various aspects such as data cleaning, exploratory data analysis, and data modeling. Each project is designed to demonstrate my proficiency in using SQL and Python for data manipulation and analysis.
 
-Projects Overview
+# Projects Overview
 
 Project 1: Data Cleaning using SQL
 In this project, I have performed data cleaning tasks on a raw dataset using MySQL Workbench. The objective was to clean and prepare the data for further analysis by addressing issues such as missing values, duplicate records, and inconsistent data formats.
